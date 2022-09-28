@@ -8,3 +8,4 @@ First_name VARCHAR(50),
 Last_name  VARCHAR(50),
 Age INT
 )
+incomplete datastructure
